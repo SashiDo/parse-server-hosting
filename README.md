@@ -4,6 +4,8 @@
 - Launch with one click. 
 - Enjoyed it afterwards.
 
+For more info just check out here http://www.parseground.com
+
 ## Welcome all Parse users.
 
 #### Meet ParsGround. Made by developers to developers.
