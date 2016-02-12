@@ -1,2 +1,48 @@
-# parse-server-hosting
-ParseGround.com is Simple Parse Server Hosting.
+# ParseGround.com is Simple Parse Server Hosting.
+
+- Free migration of your Parse apps. 
+- Launch with one click. 
+- Enjoyed it afterwards.
+
+## Welcome all Parse users.
+
+#### Meet ParsGround. Made by developers to developers.
+
+As Parse users we value its simplicity. That’s why we commit to continue the cause and keep the developing flow going. ParseGround keeps the server management away, so you can focus on your app. As simple as before.
+
+###### Free migration. 
+Yes. It’s our job to migrate all your Parse apps. Subscribe and get it now for free.
+
+###### Multi-Geo coverage
+Your services stay close to your customers. We have servers in all AWS locations.
+
+###### Automated Scalling
+ParseGround provides secure automated scalling. 
+
+###### 24/7 Support
+As programmers we know, use & support NodeJS & MongoDB. And we’ll help you with optimisation. 
+
+###### Dashboard & Metrics
+You get full information over apps and services.
+
+## Simple and flexible pricing
+
+With ParseGround you use Open Source Parse Server as foundation for your app, just as before, easy and clear. ParseGround keeps you away of server & database management, beause we know you don’t like them.
+
+```
+
+1M reqtests per month - $0.25/100k requests extra
+File Storage 40GB - $0.03/GB extra 
+Database Storage 1GB - $12/GB extra
+File Transfer 500GB - $0.10/GB extra
+
+All of this starts from $4/mo. Better than free.
+
+```
+
+## Contacts
+`ParseGround every day keeps the servers away.`
+
+For more info just check out here http://www.parseground.com
+
+Share your questions and comments on hello@parseground.com
