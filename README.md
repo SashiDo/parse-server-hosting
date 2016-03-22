@@ -42,6 +42,9 @@ All of this starts from $4/mo. Better than free.
 
 ```
 
+## Enjoy the simple parse server dashboard by ParseGround (vol.1)
+[![Enjoy the simple parse server dashboard by ParseGround (vol.1)](http://img.youtube.com/vi/FhcxR6btIqw/maxresdefault.jpg)](https://www.youtube.com/watch?v=FhcxR6btIqw)
+
 ## Contacts
 `ParseGround every day keeps the servers away.`
 
