@@ -1,4 +1,4 @@
-# SashiDo.io is Simple Parse Server Hosting.
+# SashiDo.io is a Parse Server Hosting for busy people.
 
 - Free migration of your Parse apps. 
 - Launch with one click. 
