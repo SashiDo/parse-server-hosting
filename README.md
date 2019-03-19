@@ -4,7 +4,7 @@
 - Launch with one click. 
 - Enjoyed it afterwards.
 
-For more info just check out here http://www.sashido.io
+For more info just check out here https://www.sashido.io
 
 ## Welcome all Parse users.
 
